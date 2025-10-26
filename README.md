@@ -33,47 +33,6 @@
 - [Git](https://git-scm.com/) for version control.
 - A text editor or integrated development environment (IDE) of your choice (e.g., Visual Studio Code).
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Rohith-Manjunath/MERN-Recipe-App.git
-
-2. Navigate to the project directory:
-
-       cd Mern-Recipe-App   
-
-3. Navigate to the client directory:
-     
-       cd client 
-       cd my-app 
-
-4. Install client dependencies:
-
-       npm install 
-
-5. Return to the project root:
-
-       cd ..
-       cd ..
-
-6. Navigate to server folder:
-
-       cd server
-
-7. Create a `.env` file in the project root and configure your environment variables:
-   
-       PORT=2000
-       MONGODB_URI=mongodb://localhost/recipe-app
-       SECRET=your-secret-key
-
-Replace `your-secret-key` with a secure secret for JWT token generation.
-
-8. Start the development server
-
-       node index.js
-
 
 ## Folder Structure
 The project follows a standard MERN stack folder structure:
