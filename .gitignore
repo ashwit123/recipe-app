@@ -1,1 +1,31 @@
+<<<<<<< HEAD
 recipe-app/.git
+=======
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React build output
+/build
+/dist
+
+# IDE and editor-specific files (Optional, depending on your IDE/editor)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific files (Optional, depending on the OS used by your team)
+.DS_Store
+
+# Environment files (Optional, depending on your setup)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local Netlify folder
+.netlify
+>>>>>>> 8dc53a4542379af67c7fbcee19cfd1a3a67a3137
